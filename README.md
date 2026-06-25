@@ -10,4 +10,20 @@ print()やif文,for文,関数定義について
 <br>・ポケモンの種族値
 ![pokemon](/week3/pokemon.png)
 
-## week4：
+## week4：データ加工
+pd.concat()：データの結合
+<br>pd.merge()：特定の要素をもとに結合
+<br>欠落したデータの補完と表記の統一
+<br>・元のデータ
+![origin](/week4/origin.png)
+<br>・表記の統一(「はさみ」⇒「ハサミ」)
+![hasami](/week4/hasami.png)
+<br>・データの補完(「NaN」⇒「女性」)
+![hokan](/week4/hokan.png)
+
+## week5：数値計算
+
+## week6：統計的検定
+
+## week7：データ分析
+タイタニック号の乗客データをもとに
