@@ -6,20 +6,20 @@ print()やif文,for文,関数定義について
 ## week3：データの読み込みと閲覧
 扱ったデータは元素表とポケモンの種族値
 <br>・元素データ
-![genso](/week3/genso.png)
+<br>![genso](/week3/genso.png)
 <br>・ポケモンの種族値
-![pokemon](/week3/pokemon.png)
+<br>![pokemon](/week3/pokemon.png)
 
 ## week4：データ加工
 pd.concat()：データの結合
 <br>pd.merge()：特定の要素をもとに結合
 <br>欠落したデータの補完と表記の統一
 <br>・元のデータ
-![origin](/week4/origin.png)
+<br>![origin](/week4/origin.png)
 <br>・表記の統一(「はさみ」⇒「ハサミ」)
-![hasami](/week4/hasami.png)
+<br>![hasami](/week4/hasami.png)
 <br>・データの補完(「NaN」⇒「女性」)
-![hokan](/week4/hokan.png)
+<br>![hokan](/week4/hokan.png)
 
 ## week5：数値計算
 
